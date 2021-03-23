@@ -12,5 +12,8 @@ namespace UtilityLibraries
         public double AdminPhoneNumber { get; set; }
         public string AdminEmailAddress { get; set; }
         public int AdminID { get; set; }
+        public string AdminAccess { get; set; }
+        public string AdminProfessors { get; set; }
+        public string AdminStudents { get; set; }
     }
 }
